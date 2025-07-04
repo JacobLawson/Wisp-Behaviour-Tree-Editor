@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|c:\\users\\jacob\\source\\repos\\wispeditor\\wispeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|solutionrelative:wispeditor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|c:\\users\\jacob\\source\\repos\\wispeditor\\wispeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|solutionrelative:wispeditor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|c:\\users\\jacob\\source\\repos\\wispeditor\\wispeditor\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|solutionrelative:wispeditor\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|c:\\users\\jacob\\source\\repos\\wispeditor\\wispeditor\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|solutionrelative:wispeditor\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|c:\\users\\jacob\\source\\repos\\wispeditor\\wispeditor\\nodeport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBAB46F-FDD2-414D-8389-DB5F84F74C09}|WispEditor\\WispEditor.csproj|solutionrelative:wispeditor\\nodeport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WispEditor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WispEditor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAnwOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T20:23:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\Node.cs",
+              "RelativeDocumentMoniker": "WispEditor\\Node.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\Node.cs",
+              "RelativeToolTip": "WispEditor\\Node.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAnwGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:45:15.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\SaveData.cs",
+              "RelativeDocumentMoniker": "WispEditor\\SaveData.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\SaveData.cs",
+              "RelativeToolTip": "WispEditor\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:16:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NodePort.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\NodePort.cs",
+              "RelativeDocumentMoniker": "WispEditor\\NodePort.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\NodePort.cs",
+              "RelativeToolTip": "WispEditor\\NodePort.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:45:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WispEditor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\WispEditor\\WispEditor\\MainWindow.xaml",
+              "RelativeToolTip": "WispEditor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-13T20:23:06.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
